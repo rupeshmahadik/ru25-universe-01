@@ -59,6 +59,7 @@ function Home() {
                     <Link to="/skills" className="planet-button">🛠 Skills</Link>
                     <Link to="/contact" className="planet-button">📡 Contact</Link>
                 </div>
+                <p></p>
 
 
             </div>
